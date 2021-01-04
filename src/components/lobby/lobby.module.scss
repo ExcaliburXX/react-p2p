@@ -1,0 +1,15 @@
+.container {
+  flex-grow: 1;
+}
+
+.chatContainer {
+  // display: "flex";
+  // justify: "flex-start";
+  // margin: auto;
+  align-items: "flex-start" !important;
+}
+
+.chatItem {
+  text-align: left;
+  border-style: solid;
+}
